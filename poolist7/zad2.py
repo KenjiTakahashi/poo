@@ -231,7 +231,7 @@ class Main(QtGui.QMainWindow):
 
 if __name__ == '__main__':
     app = QtGui.QApplication(sys.argv)
-    app.setApplicationName('poolist7.zad3')
+    app.setApplicationName('poolist7.zad2')
     main = Main()
     main.show()
     sys.exit(app.exec_())
