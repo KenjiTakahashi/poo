@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\zad1\zad1.csproj">
+    <ProjectReference Include="..\DI\DI.csproj">
       <Project>{72f38283-5601-4080-910c-06defd26bf35}</Project>
-      <Name>zad1</Name>
+      <Name>DI</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

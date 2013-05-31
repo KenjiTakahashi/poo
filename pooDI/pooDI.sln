@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad1", "zad1\zad1.csproj", "{72F38283-5601-4080-910C-06DEFD26BF35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI", "DI\DI.csproj", "{72F38283-5601-4080-910C-06DEFD26BF35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad1tests", "zad1tests\zad1tests.csproj", "{D3B99431-0889-43BC-93E5-E31115519EBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DITests", "DITests\DITests.csproj", "{D3B99431-0889-43BC-93E5-E31115519EBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
